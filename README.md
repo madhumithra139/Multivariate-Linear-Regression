@@ -5,19 +5,19 @@ To write a python program to implement multivariate linear regression and predic
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-### Step1
+### Step1:import Pandas and the required module from Scikit-learn.
 <br>
 
-### Step2
+### Step2:Read the carsemission.csv dataset.
 <br>
 
-### Step3
+### Step3:Select Weight and Volume as independent variables.
 <br>
 
-### Step4
+### Step4:Slect CO2 as the dependent variable.
 <br>
 
-### Step5
+### Step5:Create and train a Multivariate Linear Regression model.
 <br>
 
 ## Program:
